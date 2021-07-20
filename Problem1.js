@@ -1,7 +1,6 @@
 // Problem 1
 
 function printFrequency(arr) {
-
     let max = Number.MIN_VALUE;
     for(let i = 0; i < arr.length; i++) {
         max = Math.max(arr[i], max);
