@@ -1,5 +1,4 @@
 // Problem 6
-//this function whateverrr
 function getSubsets(arr ) {
  
     let currArr = new Array(3).fill(0);
