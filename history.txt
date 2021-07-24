@@ -1,0 +1,56 @@
+    1  cd
+    2  ll
+    3  pvd
+    4  pwd
+    5  mkdir myrepository
+    6  cd
+    7  cd myrepository
+    8  git clone https://github.com/ElenBabayan/JS_Homework1.git
+    9  ls la
+   10  ls-la
+   11  ls -la
+   12  cd JS_Homework1/
+   13  ll
+   14  git status
+   15  pvd
+   16  pwd
+   17  git status
+   18  git diff
+   19  git status
+   20  git commit
+   21  git config --global user.name "elen_babayan"
+   22  git config --global user.email "elen_babayan@edu.aua.am"
+   23  git commit
+   24  git commit
+   25  git add.
+   26  git add .
+   27  git status
+   28  git commit
+   29  ll
+   30  ll
+   31  cd myrepository/
+   32  git status
+   33  ll
+   34  cd JS_Homework1/
+   35  git status
+   36  git commit
+   37  git commit -m "firstChange"
+   38  git status
+   39  git push
+   40  ssh-keygen -t rsa 
+   41  git push
+   42  git push
+   43  cd myrepository/
+   44  cd JS_Homework1/
+   45  git push
+   46  git status
+   47  git diff
+   48  git add .
+   49  git status
+   50  git commit -m
+   51  git commit -m "RevertChange"
+   52  git status
+   53  git push
+   54  git history 
+   55  git log
+   56  history > history.txt
